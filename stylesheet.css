@@ -1,0 +1,23 @@
+.header {
+  position: top;
+  width: 100%;
+  padding: 60px;
+  background-color: grey;
+}
+
+.firstres {
+  border: solid;
+  border-color: grey;
+  margin: 30px 800px 30px 120px;
+  padding: 10px;
+}
+
+h4 {
+  font-family: arial;
+}
+li {
+  font-family: arial;
+  font-size: 15px;
+  padding: 3px;
+  font-weight: normal;
+}
